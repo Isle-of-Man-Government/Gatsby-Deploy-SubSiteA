@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-category-page-template-js","path":"/category/uncategorized","result":{"data":{"wpgraphql":{"category":{"name":"Uncategorized","posts":{"edges":[{"node":{"slug":"hello-world","databaseId":1,"title":"Hello world!","excerpt":"<p>Please trigger</p>\n"}}]}}}},"pageContext":{"slug":"uncategorized","databaseId":1,"name":"Uncategorized"}}}
